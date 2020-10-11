@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:inputType="text"
         android:text="Your name"
+        android:gravity="center"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -36,3 +37,6 @@
 
 
 </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
